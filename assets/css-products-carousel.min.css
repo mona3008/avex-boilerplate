@@ -46,7 +46,7 @@
   display: none;
 }
 .products-carousel .swiper-button svg {
-  fill: #fff;
+  fill: #8b0000;
 }
 @media only screen and (max-width: 767px) {
   .products-carousel .swiper-button svg {
