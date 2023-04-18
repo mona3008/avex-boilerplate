@@ -94,5 +94,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".hero-banner__link {color: inherit; font-size: 35px;}"
+    ]
   }
 }
