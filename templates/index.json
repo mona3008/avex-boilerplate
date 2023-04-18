@@ -60,6 +60,7 @@
     },
     "164486929730ceebea": {
       "type": "contact-form",
+      "disabled": true,
       "blocks": {
         "d9048421-4d95-4631-afe7-3b523ba249e1": {
           "type": "email",
