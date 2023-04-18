@@ -12,7 +12,7 @@
 }
 .products-carousel__button {
   margin: 2.5rem 1.25rem 2.5rem;
-  text-align: center;
+  text-align: center; 
 }
 @media only screen and (max-width: 767px) {
   .products-carousel__button {
@@ -46,7 +46,7 @@
   display: none;
 }
 .products-carousel .swiper-button svg {
-  fill: #000;
+  fill: #fff;
 }
 @media only screen and (max-width: 767px) {
   .products-carousel .swiper-button svg {
