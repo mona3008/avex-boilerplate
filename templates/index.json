@@ -3,7 +3,7 @@
     "1633298769daf14fc7": {
       "type": "hero-banner",
       "settings": {
-        "hero_img": "shopify:\/\/shop_images\/John_A._Russo-4.png",
+        "hero_img": "shopify:\/\/shop_images\/jack-new-banner-test.jpg",
         "hero_img_mob": "shopify:\/\/shop_images\/russo-logo.png",
         "hero_video": "",
         "hero_pre_title": "",
@@ -11,7 +11,7 @@
         "hero_text": "",
         "hero_b_text": "Shop now",
         "hero_b_url": "shopify:\/\/collections\/all",
-        "hero_text_color": "#fff",
+        "hero_text_color": "#ffffff",
         "hero_cover_color": "rgba(0,0,0,0)",
         "hero_cover_opacity": 0,
         "text_align": "center",
