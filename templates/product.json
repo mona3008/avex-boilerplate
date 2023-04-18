@@ -47,6 +47,7 @@
         },
         "99bc5e0d-d3f2-4a70-9a88-197fc3207f83": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "PRODUCT CARE",
             "content": "<p><strong>Washing<\/strong><\/p><p>Inside outWith like colorsUse \"Cool\" water temperature<\/p><p><strong>Drying<\/strong><\/p><p>Hang dryDo not tumble dryDo not dry clean<\/p>",
