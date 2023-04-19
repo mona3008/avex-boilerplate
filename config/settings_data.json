@@ -85,6 +85,18 @@
               "f_urltext": "",
               "f_url": ""
             }
+          },
+          "eb1e00b9-5da9-4048-a459-be0175dfcde7": {
+            "type": "menu",
+            "settings": {
+              "menuitem": "gallery",
+              "f_image_ord": "0",
+              "f_color": "#ffffff",
+              "f_pretitle": "",
+              "f_title": "",
+              "f_urltext": "",
+              "f_url": ""
+            }
           }
         },
         "block_order": [
@@ -93,7 +105,8 @@
           "228e75d4-47e4-4623-bff8-24a2635d89b5",
           "29e14109-f392-4546-80e2-4bce1f4c2299",
           "548ad052-6469-4c79-9d33-5ad4857de130",
-          "0de6ebb7-f441-49c8-8dd7-5658971883cf"
+          "0de6ebb7-f441-49c8-8dd7-5658971883cf",
+          "eb1e00b9-5da9-4048-a459-be0175dfcde7"
         ],
         "settings": {
           "infobar": "<p>!!BOGO!!!<a href=\"\/products\/original-1968-night-of-the-living-dead-press-kit\" title=\"NIGHT OF THE LIVING DEAD 1968 Press Kit Reproduction\"> NIGHT OF THE LIVING DEAD 1968 PRESS KIT REPRODUCTIONS - CLICK HERE<\/a><\/p>",
