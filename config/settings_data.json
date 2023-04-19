@@ -29,10 +29,34 @@
               "f_url": ""
             }
           },
+          "ea1d0fbc-e3f9-458f-8138-2e7800ff30ae": {
+            "type": "menu",
+            "settings": {
+              "menuitem": "about",
+              "f_image_ord": "0",
+              "f_color": "#ffffff",
+              "f_pretitle": "",
+              "f_title": "",
+              "f_urltext": "",
+              "f_url": ""
+            }
+          },
           "072412a3-aba4-4d32-8022-cfe7a5cb9d9e": {
             "type": "menu",
             "settings": {
               "menuitem": "products",
+              "f_image_ord": "0",
+              "f_color": "#ffffff",
+              "f_pretitle": "",
+              "f_title": "",
+              "f_urltext": "",
+              "f_url": ""
+            }
+          },
+          "600a875a-f32a-4233-8aab-368775626a8d": {
+            "type": "menu",
+            "settings": {
+              "menuitem": "news",
               "f_image_ord": "0",
               "f_color": "#ffffff",
               "f_pretitle": "",
@@ -45,7 +69,9 @@
         "block_order": [
           "96eaec1b-2e8c-482f-a375-ebceb4abc648",
           "a91fe195-ec38-4cc2-b888-16179535d20d",
-          "072412a3-aba4-4d32-8022-cfe7a5cb9d9e"
+          "ea1d0fbc-e3f9-458f-8138-2e7800ff30ae",
+          "072412a3-aba4-4d32-8022-cfe7a5cb9d9e",
+          "600a875a-f32a-4233-8aab-368775626a8d"
         ],
         "settings": {
           "infobar": "<p>FREE SHIPPING ON ALL ORDERS OVER $150<\/p>",
