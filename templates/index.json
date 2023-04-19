@@ -97,6 +97,12 @@
         "title": "Contact form",
         "form_id": "ContactForm"
       }
+    },
+    "9df29a2b-5964-4fa1-81ae-c2fe515b10dd": {
+      "type": "list-collections",
+      "settings": {
+        "title": "SHOP ALL COLLECTIONS"
+      }
     }
   },
   "order": [
@@ -104,6 +110,7 @@
     "163329877533384385",
     "16332987808e571964",
     "16332987823b33b422",
-    "164486929730ceebea"
+    "164486929730ceebea",
+    "9df29a2b-5964-4fa1-81ae-c2fe515b10dd"
   ]
 }
