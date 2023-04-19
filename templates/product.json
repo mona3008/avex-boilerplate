@@ -80,11 +80,11 @@
       "type": "products-carousel",
       "settings": {
         "carousel_title": "YOU MAY ALSO LIKE",
-        "carousel_coll": "night-of-the-living-dead-1968",
+        "carousel_coll": "shop-all",
         "carousel_coll_lm": 11,
         "carousel_desk": 5,
         "carousel_mob": 2,
-        "carousel_b_text": "Back to all Collections"
+        "carousel_b_text": "Back to all products"
       }
     }
   },
