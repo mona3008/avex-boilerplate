@@ -98,7 +98,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".hero-banner__link {color: inherit; font-size: 35px; font-weight: 900;}"
+      ".hero-banner__link {color: inherit; font-size: 35px; font-weight: 900;}",
+      ".header__menu-item:hover span {color: #fff !important;}"
     ]
   }
 }
