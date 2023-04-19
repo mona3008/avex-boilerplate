@@ -38,15 +38,16 @@
     "7e749a9f-4b5c-4ae9-b62f-abe15a017c75": {
       "type": "half-media-text",
       "settings": {
+        "half_image": "shopify:\/\/shop_images\/monster-bash-2023.png",
         "half_image_p": "1",
         "half_video": "",
-        "half_title": "",
+        "half_title": "Monster Bash Conference",
         "half_title_tag": "h2",
-        "half_text": "",
-        "half_b_text": "Shop Now",
-        "half_b_url": "",
+        "half_text": "<h4><em>JUNE 16th-18th<\/em><\/h4><h4><em>MARS, PA<\/em><\/h4>",
+        "half_b_text": "DETAILS",
+        "half_b_url": "https:\/\/www.monsterbashnews.com",
         "half_text_color": "#000",
-        "half_bg_color": "#fff"
+        "half_bg_color": "#f2f2f2"
       }
     }
   },
