@@ -7,6 +7,7 @@
     },
     "3824c660-4c5b-48a4-b71e-895cd224652f": {
       "type": "image-gallery",
+      "disabled": true,
       "blocks": {
         "19db98eb-069e-40eb-8175-11db643d67b5": {
           "type": "image",
