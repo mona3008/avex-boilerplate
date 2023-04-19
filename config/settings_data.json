@@ -34,10 +34,11 @@
             "type": "menu",
             "settings": {
               "menuitem": "shop-all",
-              "f_image_ord": "0",
+              "f_image": "shopify:\/\/shop_images\/340932775_2170719439985358_3931553476720563109_n.jpg",
+              "f_image_ord": "1",
               "f_color": "#ffffff",
               "f_pretitle": "",
-              "f_title": "",
+              "f_title": "RARE MEMORABILIA: Active Duty combat boots 1962-1967",
               "f_urltext": "",
               "f_url": ""
             }
