@@ -2,23 +2,7 @@
   "sections": {
     "main": {
       "type": "page",
-      "disabled": true,
       "settings": {
-      }
-    },
-    "54734407-8ea8-4d11-a5e4-7cec23550137": {
-      "type": "half-media-text",
-      "settings": {
-        "half_image": "shopify:\/\/shop_images\/midnight-poster.png",
-        "half_image_p": "1",
-        "half_video": "https:\/\/youtu.be\/Qw2fyAZ_dYk",
-        "half_title": "MIDNIGHT (1982)",
-        "half_title_tag": "h3",
-        "half_text": "",
-        "half_b_text": "More Info",
-        "half_b_url": "shopify:\/\/collections\/all",
-        "half_text_color": "#000000",
-        "half_bg_color": "#f2f2f2"
       }
     },
     "aa1c3554-b1b7-4781-95f4-ea919d5a20f1": {
@@ -34,6 +18,21 @@
         "half_b_url": "https:\/\/www.thelivingdeadweekend.com",
         "half_text_color": "#000000",
         "half_bg_color": "#ffffff"
+      }
+    },
+    "54734407-8ea8-4d11-a5e4-7cec23550137": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image": "shopify:\/\/shop_images\/midnight-poster.png",
+        "half_image_p": "1",
+        "half_video": "https:\/\/youtu.be\/Qw2fyAZ_dYk",
+        "half_title": "MIDNIGHT (1982)",
+        "half_title_tag": "h3",
+        "half_text": "",
+        "half_b_text": "More Info",
+        "half_b_url": "shopify:\/\/collections\/all",
+        "half_text_color": "#000000",
+        "half_bg_color": "#f2f2f2"
       }
     },
     "7e749a9f-4b5c-4ae9-b62f-abe15a017c75": {
@@ -97,8 +96,8 @@
   },
   "order": [
     "main",
-    "54734407-8ea8-4d11-a5e4-7cec23550137",
     "aa1c3554-b1b7-4781-95f4-ea919d5a20f1",
+    "54734407-8ea8-4d11-a5e4-7cec23550137",
     "7e749a9f-4b5c-4ae9-b62f-abe15a017c75",
     "b4bb3907-3948-4778-80c4-b900277cabf6",
     "f860a278-57bb-476b-942e-6ab435def2f3",
