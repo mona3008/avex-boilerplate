@@ -83,11 +83,19 @@
         "2880cc23-802b-4cf0-90da-3aa58d756b6d": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/John-A.-Russo-slide-600x227.jpg"
           }
         },
         "8765e63b-987c-4aed-a5a9-cc6ec8104d1b": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/332703945_3026851307620983_2683527942477363197_n.jpg"
+          }
+        },
+        "4d74e812-5446-4046-a270-97605676bda9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jackdrawings.jpg"
           }
         }
       },
@@ -105,7 +113,8 @@
         "60cd41e7-ba20-4725-a421-cb6366f51f45",
         "e5ce7a4a-55ac-4aea-98bc-8f3ab75207a7",
         "2880cc23-802b-4cf0-90da-3aa58d756b6d",
-        "8765e63b-987c-4aed-a5a9-cc6ec8104d1b"
+        "8765e63b-987c-4aed-a5a9-cc6ec8104d1b",
+        "4d74e812-5446-4046-a270-97605676bda9"
       ],
       "settings": {
         "heading": "",
