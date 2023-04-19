@@ -26,13 +26,13 @@
             "type": "menu",
             "settings": {
               "menuitem": "products",
-              "f_image": "shopify:\/\/shop_images\/russo.jpg",
-              "f_image_ord": "0",
+              "f_image": "shopify:\/\/shop_images\/340932775_2170719439985358_3931553476720563109_n.jpg",
+              "f_image_ord": "1",
               "f_color": "#ffffff",
-              "f_pretitle": "",
-              "f_title": "",
-              "f_urltext": "",
-              "f_url": ""
+              "f_pretitle": "FEATURED PRODUCT",
+              "f_title": "Boots",
+              "f_urltext": "More details",
+              "f_url": "shopify:\/\/products\/rare-memorabilia-active-duty-combat-boots-1962-1967"
             }
           },
           "29e14109-f392-4546-80e2-4bce1f4c2299": {
