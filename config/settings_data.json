@@ -5,18 +5,6 @@
       "header": {
         "type": "header",
         "blocks": {
-          "96eaec1b-2e8c-482f-a375-ebceb4abc648": {
-            "type": "menu",
-            "settings": {
-              "menuitem": "main-menu",
-              "f_image_ord": "0",
-              "f_color": "#202020",
-              "f_pretitle": "Handmade",
-              "f_title": "Just for you...",
-              "f_urltext": "Shop",
-              "f_url": "shopify:\/\/collections\/all"
-            }
-          },
           "a91fe195-ec38-4cc2-b888-16179535d20d": {
             "type": "menu",
             "settings": {
@@ -25,31 +13,6 @@
               "f_color": "#ffffff",
               "f_pretitle": "",
               "f_title": "SHOP ALL",
-              "f_urltext": "",
-              "f_url": ""
-            }
-          },
-          "ea1d0fbc-e3f9-458f-8138-2e7800ff30ae": {
-            "type": "menu",
-            "settings": {
-              "menuitem": "about",
-              "f_image_ord": "0",
-              "f_color": "#ffffff",
-              "f_pretitle": "",
-              "f_title": "",
-              "f_urltext": "",
-              "f_url": ""
-            }
-          },
-          "072412a3-aba4-4d32-8022-cfe7a5cb9d9e": {
-            "type": "menu",
-            "disabled": true,
-            "settings": {
-              "menuitem": "products",
-              "f_image_ord": "0",
-              "f_color": "#ffffff",
-              "f_pretitle": "",
-              "f_title": "",
               "f_urltext": "",
               "f_url": ""
             }
@@ -68,10 +31,7 @@
           }
         },
         "block_order": [
-          "96eaec1b-2e8c-482f-a375-ebceb4abc648",
           "a91fe195-ec38-4cc2-b888-16179535d20d",
-          "ea1d0fbc-e3f9-458f-8138-2e7800ff30ae",
-          "072412a3-aba4-4d32-8022-cfe7a5cb9d9e",
           "600a875a-f32a-4233-8aab-368775626a8d"
         ],
         "settings": {
