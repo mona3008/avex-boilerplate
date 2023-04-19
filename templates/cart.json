@@ -2,8 +2,23 @@
   "sections": {
     "main": {
       "type": "cart-page",
-      "settings": {}
+      "settings": {
+      }
+    },
+    "ed4271e6-3456-41ef-adbd-73126da241c3": {
+      "type": "products-carousel",
+      "settings": {
+        "carousel_title": "Want to add something?",
+        "carousel_coll": "shop-all",
+        "carousel_coll_lm": 15,
+        "carousel_desk": 5,
+        "carousel_mob": 2,
+        "carousel_b_text": "Shop Now"
+      }
     }
   },
-  "order": ["main"]
+  "order": [
+    "main",
+    "ed4271e6-3456-41ef-adbd-73126da241c3"
+  ]
 }
