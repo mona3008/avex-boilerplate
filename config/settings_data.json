@@ -18,18 +18,6 @@
               "f_url": "shopify:\/\/collections\/autographs"
             }
           },
-          "600a875a-f32a-4233-8aab-368775626a8d": {
-            "type": "menu",
-            "settings": {
-              "menuitem": "news",
-              "f_image_ord": "0",
-              "f_color": "#ffffff",
-              "f_pretitle": "",
-              "f_title": "",
-              "f_urltext": "",
-              "f_url": ""
-            }
-          },
           "29e14109-f392-4546-80e2-4bce1f4c2299": {
             "type": "menu",
             "settings": {
@@ -45,7 +33,6 @@
         },
         "block_order": [
           "a91fe195-ec38-4cc2-b888-16179535d20d",
-          "600a875a-f32a-4233-8aab-368775626a8d",
           "29e14109-f392-4546-80e2-4bce1f4c2299"
         ],
         "settings": {
