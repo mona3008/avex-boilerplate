@@ -5,6 +5,8 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/Untitled_design.png",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#ffffff",
+    "checkout_accent_color": "#8b0000",
+    "checkout_button_color": "#ffffff",
     "sections": {
       "header": {
         "type": "header",
