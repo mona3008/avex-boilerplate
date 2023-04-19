@@ -9,15 +9,15 @@
     "54734407-8ea8-4d11-a5e4-7cec23550137": {
       "type": "half-media-text",
       "settings": {
-        "half_image": "shopify:\/\/shop_images\/rs_w-776_cg-true.webp",
+        "half_image": "shopify:\/\/shop_images\/burning_bulb_publishing_jpg.webp",
         "half_image_p": "1",
         "half_video": "",
-        "half_title": "Motor City COMIC CON",
+        "half_title": "BUrning Bulb Publishing",
         "half_title_tag": "h2",
-        "half_text": "<h4><em>May 19th to 21st, 2023<\/em><\/h4><h4><em>Novi, MI<\/em><\/h4>",
-        "half_b_text": "DETAILS",
-        "half_b_url": "https:\/\/motorcitycomiccon.com",
-        "half_text_color": "#000",
+        "half_text": "",
+        "half_b_text": "MOre info",
+        "half_b_url": "https:\/\/www.burningbulbpublishing.com",
+        "half_text_color": "#000000",
         "half_bg_color": "#f2f2f2"
       }
     },
@@ -32,8 +32,8 @@
         "half_text": "<h4><em>JUNE 9th-11th<br\/>MONROEVILLE, PA<\/em><\/h4>",
         "half_b_text": "DETAILS",
         "half_b_url": "https:\/\/www.thelivingdeadweekend.com",
-        "half_text_color": "#000",
-        "half_bg_color": "#fff"
+        "half_text_color": "#000000",
+        "half_bg_color": "#ffffff"
       }
     },
     "7e749a9f-4b5c-4ae9-b62f-abe15a017c75": {
@@ -47,7 +47,7 @@
         "half_text": "<h4><em>JUNE 16th-18th<\/em><\/h4><h4><em>MARS, PA<\/em><\/h4>",
         "half_b_text": "DETAILS",
         "half_b_url": "https:\/\/www.monsterbashnews.com",
-        "half_text_color": "#000",
+        "half_text_color": "#000000",
         "half_bg_color": "#f2f2f2"
       }
     },
@@ -62,8 +62,8 @@
         "half_text": "<h4>June 23rd to June 25th<\/h4><h4>Indianapolis, PA<\/h4>",
         "half_b_text": "DETAILS",
         "half_b_url": "",
-        "half_text_color": "#000",
-        "half_bg_color": "#fff"
+        "half_text_color": "#000000",
+        "half_bg_color": "#ffffff"
       }
     }
   },
