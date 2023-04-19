@@ -2,7 +2,6 @@
   "sections": {
     "1633298769daf14fc7": {
       "type": "hero-banner",
-      "disabled": true,
       "settings": {
         "hero_img": "shopify:\/\/shop_images\/jack-new-banner-test.jpg",
         "hero_img_mob": "shopify:\/\/shop_images\/russo-logo.png",
@@ -34,12 +33,13 @@
     "16332987808e571964": {
       "type": "half-media-text",
       "settings": {
+        "half_image": "shopify:\/\/shop_images\/332703945_3026851307620983_2683527942477363197_n.jpg",
         "half_image_p": "1",
         "half_video": "",
-        "half_title": "Shopify Plus UX Design & Development",
+        "half_title": "My Uncle John is a zombie",
         "half_title_tag": "h3",
-        "half_text": "<p>As a Shopify agency, we build and optimized completely custom, on-brand eCommerce user-experiences powered by Shopify Plus. Our themes are scalable, fast and optimized for conversions, so you can have complete control over your brand's customer experience and grow your business.<\/p>",
-        "half_b_text": "Shop Now",
+        "half_text": "<p>Learn more about the movie!<\/p>",
+        "half_b_text": "More Details",
         "half_b_url": "",
         "half_text_color": "#000000",
         "half_bg_color": "#ffffff"
