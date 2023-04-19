@@ -43,6 +43,7 @@
           },
           "072412a3-aba4-4d32-8022-cfe7a5cb9d9e": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "menuitem": "products",
               "f_image_ord": "0",
