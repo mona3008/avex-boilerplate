@@ -21,10 +21,11 @@
             "type": "menu",
             "settings": {
               "menuitem": "shop-all",
+              "f_image": "shopify:\/\/shop_images\/Untitled_design-4.png",
               "f_image_ord": "0",
               "f_color": "#ffffff",
               "f_pretitle": "",
-              "f_title": "",
+              "f_title": "SHOP ALL",
               "f_urltext": "",
               "f_url": ""
             }
