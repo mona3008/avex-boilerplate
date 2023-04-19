@@ -26,6 +26,7 @@
             "type": "menu",
             "settings": {
               "menuitem": "about",
+              "f_image": "shopify:\/\/shop_images\/John-Russo-Silver-Scream-Fest.png",
               "f_image_ord": "0",
               "f_color": "#ffffff",
               "f_pretitle": "",
