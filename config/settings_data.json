@@ -9,6 +9,18 @@
       "header": {
         "type": "header",
         "blocks": {
+          "13b6f21c-df47-4dae-b57d-33459f093c58": {
+            "type": "menu",
+            "settings": {
+              "menuitem": "main-menu",
+              "f_image_ord": "0",
+              "f_color": "#ffffff",
+              "f_pretitle": "",
+              "f_title": "",
+              "f_urltext": "",
+              "f_url": ""
+            }
+          },
           "a91fe195-ec38-4cc2-b888-16179535d20d": {
             "type": "menu",
             "settings": {
@@ -76,6 +88,7 @@
           }
         },
         "block_order": [
+          "13b6f21c-df47-4dae-b57d-33459f093c58",
           "a91fe195-ec38-4cc2-b888-16179535d20d",
           "228e75d4-47e4-4623-bff8-24a2635d89b5",
           "29e14109-f392-4546-80e2-4bce1f4c2299",
