@@ -86,7 +86,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-
+      ".hero-banner__link {color: #fff; font-size: 40px; background-color: #8b0000; opacity: 0.8; font-weight: 900;}",
+      ".hero-banner__link:hover {color: #000;}"
     ]
   }
 }
