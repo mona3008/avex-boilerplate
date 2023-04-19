@@ -8,7 +8,7 @@
           "a91fe195-ec38-4cc2-b888-16179535d20d": {
             "type": "menu",
             "settings": {
-              "menuitem": "shop-all",
+              "menuitem": "main-menu",
               "f_image": "shopify:\/\/shop_images\/russo-logo.png",
               "f_image_ord": "0",
               "f_color": "#ffffff",
@@ -56,8 +56,8 @@
           "main_logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0747\/2922\/6521\/files\/John_A._Russo-2.svg?v=1681799056",
           "main_logo_text": "",
           "search_icon": true,
-          "wish_icon": true,
-          "user_icon": true,
+          "wish_icon": false,
+          "user_icon": false,
           "cart_icon": true
         }
       },
