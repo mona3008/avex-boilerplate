@@ -53,13 +53,12 @@
     "b4bb3907-3948-4778-80c4-b900277cabf6": {
       "type": "half-media-text",
       "settings": {
-        "half_image": "shopify:\/\/shop_images\/days-of-the-dead.png",
         "half_image_p": "1",
         "half_video": "",
-        "half_title": "Days of the dead",
-        "half_title_tag": "h2",
-        "half_text": "<h4>June 23rd to June 25th<\/h4><h4>Indianapolis, PA<\/h4>",
-        "half_b_text": "DETAILS",
+        "half_title": "",
+        "half_title_tag": "h3",
+        "half_text": "<h4><\/h4><h4>Indianapolis, PA<\/h4>",
+        "half_b_text": "more info",
         "half_b_url": "",
         "half_text_color": "#000000",
         "half_bg_color": "#ffffff"
