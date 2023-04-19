@@ -97,17 +97,6 @@
         "title": "Contact form",
         "form_id": "ContactForm"
       }
-    },
-    "6e650022-75fe-47f3-bf0b-d2adb676a6b3": {
-      "type": "products-carousel",
-      "settings": {
-        "carousel_title": "New arrivals",
-        "carousel_coll": "",
-        "carousel_coll_lm": 15,
-        "carousel_desk": 4,
-        "carousel_mob": 2,
-        "carousel_b_text": "Shop Now"
-      }
     }
   },
   "order": [
@@ -115,7 +104,6 @@
     "163329877533384385",
     "16332987808e571964",
     "16332987823b33b422",
-    "164486929730ceebea",
-    "6e650022-75fe-47f3-bf0b-d2adb676a6b3"
+    "164486929730ceebea"
   ]
 }
