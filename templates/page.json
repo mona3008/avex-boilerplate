@@ -2,8 +2,57 @@
   "sections": {
     "main": {
       "type": "page",
-      "settings": {}
+      "settings": {
+      }
+    },
+    "54734407-8ea8-4d11-a5e4-7cec23550137": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image": "shopify:\/\/shop_images\/rs_w-776_cg-true.webp",
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "Motor City COMIC CON",
+        "half_title_tag": "h2",
+        "half_text": "<p>May 19th to 21st, 2023<\/p><p>Novi, MI<\/p>",
+        "half_b_text": "DETAILS",
+        "half_b_url": "https:\/\/motorcitycomiccon.com",
+        "half_text_color": "#000",
+        "half_bg_color": "#d9c7c7"
+      }
+    },
+    "aa1c3554-b1b7-4781-95f4-ea919d5a20f1": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "",
+        "half_title_tag": "h2",
+        "half_text": "",
+        "half_b_text": "Shop Now",
+        "half_b_url": "",
+        "half_text_color": "#000",
+        "half_bg_color": "#fff"
+      }
+    },
+    "7e749a9f-4b5c-4ae9-b62f-abe15a017c75": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "",
+        "half_title_tag": "h2",
+        "half_text": "",
+        "half_b_text": "Shop Now",
+        "half_b_url": "",
+        "half_text_color": "#000",
+        "half_bg_color": "#fff"
+      }
     }
   },
-  "order": ["main"]
+  "order": [
+    "main",
+    "54734407-8ea8-4d11-a5e4-7cec23550137",
+    "aa1c3554-b1b7-4781-95f4-ea919d5a20f1",
+    "7e749a9f-4b5c-4ae9-b62f-abe15a017c75"
+  ]
 }
