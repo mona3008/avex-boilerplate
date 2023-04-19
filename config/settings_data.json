@@ -51,7 +51,7 @@
           "infobar": "<p>!!BOGO!!!<a href=\"\/products\/original-1968-night-of-the-living-dead-press-kit\" title=\"NIGHT OF THE LIVING DEAD 1968 Press Kit Reproduction\"> NIGHT OF THE LIVING DEAD 1968 PRESS KIT REPRODUCTIONS - CLICK HERE<\/a><\/p>",
           "infobar_bg": "#f2f2f2",
           "infobar_textcolor": "#8b0000",
-          "nav_show": false,
+          "nav_show": true,
           "main_logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0747\/2922\/6521\/files\/John_A._Russo-2.svg?v=1681799056",
           "main_logo_text": "",
           "search_icon": true,
