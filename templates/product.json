@@ -53,6 +53,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "recc_title": "You may also like",
         "recc_coll_lm": 15,
@@ -77,14 +78,13 @@
     },
     "568b6aec-4dcb-4924-9c31-fe2630743890": {
       "type": "products-carousel",
-      "disabled": true,
       "settings": {
         "carousel_title": "YOU MAY ALSO LIKE",
         "carousel_coll": "night-of-the-living-dead-1968",
-        "carousel_coll_lm": 5,
+        "carousel_coll_lm": 11,
         "carousel_desk": 5,
         "carousel_mob": 2,
-        "carousel_b_text": ""
+        "carousel_b_text": "Back to Collections"
       }
     }
   },
