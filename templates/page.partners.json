@@ -24,44 +24,14 @@
     "aa1c3554-b1b7-4781-95f4-ea919d5a20f1": {
       "type": "half-media-text",
       "settings": {
-        "half_image": "shopify:\/\/shop_images\/LDW_Monroeville_transparen_2023t.png",
-        "half_image_p": "1",
+        "half_image": "shopify:\/\/shop_images\/Wolfpack_Publishing_Logo_366x400_jpg.webp",
+        "half_image_p": "2",
         "half_video": "",
-        "half_title": "Living Dead Weekend Monroeville",
+        "half_title": "Wolfpack Publishing",
         "half_title_tag": "h3",
-        "half_text": "<h4><em>JUNE 9th-11th<br\/>MONROEVILLE, PA<\/em><\/h4>",
-        "half_b_text": "DETAILS",
-        "half_b_url": "https:\/\/www.thelivingdeadweekend.com",
-        "half_text_color": "#000000",
-        "half_bg_color": "#ffffff"
-      }
-    },
-    "7e749a9f-4b5c-4ae9-b62f-abe15a017c75": {
-      "type": "half-media-text",
-      "settings": {
-        "half_image": "shopify:\/\/shop_images\/monster-bash-2023.png",
-        "half_image_p": "1",
-        "half_video": "",
-        "half_title": "Monster Bash Conference",
-        "half_title_tag": "h2",
-        "half_text": "<h4><em>JUNE 16th-18th<\/em><\/h4><h4><em>MARS, PA<\/em><\/h4>",
-        "half_b_text": "DETAILS",
-        "half_b_url": "https:\/\/www.monsterbashnews.com",
-        "half_text_color": "#000000",
-        "half_bg_color": "#f2f2f2"
-      }
-    },
-    "b4bb3907-3948-4778-80c4-b900277cabf6": {
-      "type": "half-media-text",
-      "settings": {
-        "half_image": "shopify:\/\/shop_images\/days-of-the-dead.png",
-        "half_image_p": "1",
-        "half_video": "",
-        "half_title": "Days of the dead",
-        "half_title_tag": "h2",
-        "half_text": "<h4>June 23rd to June 25th<\/h4><h4>Indianapolis, PA<\/h4>",
-        "half_b_text": "DETAILS",
-        "half_b_url": "",
+        "half_text": "",
+        "half_b_text": "MORE INFO",
+        "half_b_url": "https:\/\/wolfpackpublishing.com",
         "half_text_color": "#000000",
         "half_bg_color": "#ffffff"
       }
@@ -70,8 +40,6 @@
   "order": [
     "main",
     "54734407-8ea8-4d11-a5e4-7cec23550137",
-    "aa1c3554-b1b7-4781-95f4-ea919d5a20f1",
-    "7e749a9f-4b5c-4ae9-b62f-abe15a017c75",
-    "b4bb3907-3948-4778-80c4-b900277cabf6"
+    "aa1c3554-b1b7-4781-95f4-ea919d5a20f1"
   ]
 }
