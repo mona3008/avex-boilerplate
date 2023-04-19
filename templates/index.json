@@ -63,11 +63,21 @@
       "type": "contact-form",
       "disabled": true,
       "blocks": {
+        "af2bb436-6c1c-425f-a61e-3dc0a9949709": {
+          "type": "custom_field",
+          "settings": {
+            "label": "For",
+            "field": "text",
+            "prefilled": "-",
+            "pattern": "",
+            "half_width": false
+          }
+        },
         "d9048421-4d95-4631-afe7-3b523ba249e1": {
           "type": "email",
           "settings": {
             "label": "Email",
-            "half_width": false
+            "half_width": true
           }
         },
         "9980c1cb-ced0-481f-b073-e0bcb6e3f4aa": {
@@ -79,6 +89,7 @@
         }
       },
       "block_order": [
+        "af2bb436-6c1c-425f-a61e-3dc0a9949709",
         "d9048421-4d95-4631-afe7-3b523ba249e1",
         "9980c1cb-ced0-481f-b073-e0bcb6e3f4aa"
       ],
