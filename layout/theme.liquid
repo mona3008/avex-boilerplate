@@ -47,7 +47,9 @@
 
     <!-- Common/Main js file -->
     <script src="{{ 'js-common.min.js' | asset_url }}" defer="defer"></script>
-  </head>
+  
+  {% render 'shogun-head' %}
+</head>
   <body
     id="{{ page_title | handle }}"
     class="{% if customer %}customer-logged-in {% endif %}template-{{ request.page_type | handle }} template-{{ template.name }}"
