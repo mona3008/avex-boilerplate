@@ -9,12 +9,13 @@
             "type": "menu",
             "settings": {
               "menuitem": "shop-all",
+              "f_image": "shopify:\/\/shop_images\/russo-logo.png",
               "f_image_ord": "0",
               "f_color": "#ffffff",
-              "f_pretitle": "",
+              "f_pretitle": "Autographs",
               "f_title": "SHOP ALL",
-              "f_urltext": "",
-              "f_url": ""
+              "f_urltext": "To here",
+              "f_url": "shopify:\/\/collections\/autographs"
             }
           },
           "600a875a-f32a-4233-8aab-368775626a8d": {
