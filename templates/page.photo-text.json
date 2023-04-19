@@ -24,12 +24,13 @@
     "aa1c3554-b1b7-4781-95f4-ea919d5a20f1": {
       "type": "half-media-text",
       "settings": {
+        "half_image": "shopify:\/\/shop_images\/notld-1968-a.png",
         "half_image_p": "1",
         "half_video": "",
-        "half_title": "",
+        "half_title": "Night of the living dead (1968)",
         "half_title_tag": "h3",
-        "half_text": "<h4><em>JUNE 9th-11th<br\/>MONROEVILLE, PA<\/em><\/h4>",
-        "half_b_text": "DETAILS",
+        "half_text": "<h5>co-written by george romero & john russo<\/h5>",
+        "half_b_text": "More info",
         "half_b_url": "https:\/\/www.thelivingdeadweekend.com",
         "half_text_color": "#000000",
         "half_bg_color": "#ffffff"
