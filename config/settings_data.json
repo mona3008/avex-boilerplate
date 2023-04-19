@@ -27,10 +27,10 @@
             "type": "menu",
             "settings": {
               "menuitem": "shop",
-              "f_image": "shopify:\/\/shop_images\/John-Russo-Silver-Scream-Fest.png",
+              "f_image": "shopify:\/\/shop_images\/Untitled_design-6_ec8f0416-4078-43f9-8af1-12b9b0cd3251.png",
               "f_image_ord": "0",
-              "f_color": "#000000",
-              "f_pretitle": "Featured Product",
+              "f_color": "#ffffff",
+              "f_pretitle": "Featured",
               "f_title": "Personalized Autographs",
               "f_urltext": "More details",
               "f_url": "shopify:\/\/collections\/autographs"
