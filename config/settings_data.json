@@ -1,6 +1,10 @@
 {
   "current": {
     "klaviyo_id": "01GXY46F36HH7CZYX5ZBMWAHXW",
+    "checkout_header_image": "shopify:\/\/shop_images\/jack-new-banner-test.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Untitled_design.png",
+    "checkout_logo_size": "small",
+    "checkout_body_background_color": "#ffffff",
     "sections": {
       "header": {
         "type": "header",
@@ -36,7 +40,7 @@
               "menuitem": "shop-all",
               "f_image": "shopify:\/\/shop_images\/340932775_2170719439985358_3931553476720563109_n.jpg",
               "f_image_ord": "0",
-              "f_color": "#fff",
+              "f_color": "#ffffff",
               "f_pretitle": "",
               "f_title": "RARE MEMORABILIA: Active Duty combat boots 1962-1967",
               "f_urltext": "MORE INFO",
