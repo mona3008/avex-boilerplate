@@ -1,10 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "page",
-      "settings": {
-      }
-    },
     "3824c660-4c5b-48a4-b71e-895cd224652f": {
       "type": "image-gallery",
       "blocks": {
@@ -124,10 +119,16 @@
         "full_width": true,
         "mobile_slider": true
       }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
     }
   },
   "order": [
-    "main",
-    "3824c660-4c5b-48a4-b71e-895cd224652f"
+    "3824c660-4c5b-48a4-b71e-895cd224652f",
+    "main"
   ]
 }
