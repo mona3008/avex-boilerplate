@@ -92,6 +92,72 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Jackdrawings.jpg"
           }
+        },
+        "3a796a41-e594-40bd-95f8-ab3fb686193b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jack-new-logo-test-3.jpg"
+          }
+        },
+        "bef45a4d-c226-4299-872e-919bbabeb6fc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/146889.jpg"
+          }
+        },
+        "def235b5-1b71-4b60-9b52-7519fb2634f1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/My_project-1-2.png"
+          }
+        },
+        "5519a470-2040-41b9-9b57-b266f29224a8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/121587725_10223308014552687_5168517639837370708_n.jpg"
+          }
+        },
+        "962f66cb-1a1d-40eb-b521-3f32b097e87c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/84042115_10221010380993284_5420804208557293568_n.jpg"
+          }
+        },
+        "cd7d669f-c4a7-4141-90d0-3e806f940f38": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/51655511_10217894008965931_4601586660528881664_n.jpg"
+          }
+        },
+        "618948c7-0d0f-446b-8a94-1214ee588cb9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/257407077_10223745325594618_6995086609184638930_n.jpg"
+          }
+        },
+        "7208f00b-a692-4bc1-924a-501d7557bd95": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/60640456_10218666698002674_3275589475815653376_n.jpg"
+          }
+        },
+        "81dfe34f-329e-4f15-9992-5b3e4d8a49db": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/311615934_5913281228682637_6982286317289129369_n.jpg"
+          }
+        },
+        "1983bfca-ce7e-4d84-98fe-51748cd62b9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/38880899_10217115834471771_4121512580734779392_n.jpg"
+          }
+        },
+        "d0a9732c-7d81-4d7a-bf3e-5c4a0556aa19": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/44052904_2145781242140438_2513316154680803328_n.jpg"
+          }
         }
       },
       "block_order": [
@@ -109,7 +175,18 @@
         "e5ce7a4a-55ac-4aea-98bc-8f3ab75207a7",
         "2880cc23-802b-4cf0-90da-3aa58d756b6d",
         "8765e63b-987c-4aed-a5a9-cc6ec8104d1b",
-        "4d74e812-5446-4046-a270-97605676bda9"
+        "4d74e812-5446-4046-a270-97605676bda9",
+        "3a796a41-e594-40bd-95f8-ab3fb686193b",
+        "bef45a4d-c226-4299-872e-919bbabeb6fc",
+        "def235b5-1b71-4b60-9b52-7519fb2634f1",
+        "5519a470-2040-41b9-9b57-b266f29224a8",
+        "962f66cb-1a1d-40eb-b521-3f32b097e87c",
+        "cd7d669f-c4a7-4141-90d0-3e806f940f38",
+        "618948c7-0d0f-446b-8a94-1214ee588cb9",
+        "7208f00b-a692-4bc1-924a-501d7557bd95",
+        "81dfe34f-329e-4f15-9992-5b3e4d8a49db",
+        "1983bfca-ce7e-4d84-98fe-51748cd62b9b",
+        "d0a9732c-7d81-4d7a-bf3e-5c4a0556aa19"
       ],
       "settings": {
         "heading": "<h1><strong>GALLERY<\/strong><\/h1>",
