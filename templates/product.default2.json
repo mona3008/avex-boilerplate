@@ -1,0 +1,97 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "compare_price": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "recc_title": "You may also like",
+        "recc_coll_lm": 15,
+        "recc_desk": 5,
+        "recc_mob": 2
+      }
+    },
+    "1634690105fbe44cb6": {
+      "type": "half-media-text",
+      "disabled": true,
+      "settings": {
+        "half_image_p": "1",
+        "half_video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0580\/9379\/7582\/files\/file_example_MP4_1280_10MG.mp4?v=1634690190",
+        "half_title": "FEATURED WORK",
+        "half_title_tag": "h3",
+        "half_text": "<p>Avex is a <a href=\"https:\/\/avexdesigns.com\/shopify-agency-partner-services\">NYC Shopify Partner Agency<\/a>. We design, develop and optimize eCommerce websites & email marketing campaigns for some of the world's most popular brands.<\/p>",
+        "half_b_text": "",
+        "half_b_url": "",
+        "half_text_color": "#000000",
+        "half_bg_color": "#ffffff"
+      }
+    },
+    "568b6aec-4dcb-4924-9c31-fe2630743890": {
+      "type": "products-carousel",
+      "settings": {
+        "carousel_title": "YOU MAY ALSO LIKE",
+        "carousel_coll": "shop-all",
+        "carousel_coll_lm": 11,
+        "carousel_desk": 5,
+        "carousel_mob": 2,
+        "carousel_b_text": "Back to all products"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "1634690105fbe44cb6",
+    "568b6aec-4dcb-4924-9c31-fe2630743890"
+  ]
+}
