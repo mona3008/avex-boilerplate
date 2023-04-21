@@ -161,7 +161,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "ul.mega-menu__list.page-width.mega-menu__list--condensed {display: flex !important; flex-direction: row;"
+      ".mega-menu .mega-menu__list--condensed {display: flex; flex-wrap:wrap;}",
+      ".header--top-center .mega-menu__list>li {padding-right: 2.4rem; flex-shrink: 0; width: auto;}"
     ]
   }
 }
