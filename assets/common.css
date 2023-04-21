@@ -793,3 +793,46 @@ img.auto {
   font-family: "Futura PT Light", sans-serif !important;
   font-size: 12px !important;
 }
+
+/* Button - Amazon */
+  .buttonamz{
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border: 0;
+  padding: 0 3rem;
+  cursor: pointer;
+  font: inherit;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: rgb(var(--color-button-text));
+  transition: box-shadow var(--duration-short) ease;
+  -webkit-appearance: none;
+  appearance: none;
+  color: #FFA41C;
+}  
+  .buttonamz {
+  background-color: #FFA41C; 
+  color: black; 
+  border: 0px solid #FF8F00;
+}
+  .buttonamz:hover {
+   background-color: #FF8F00;
+  }
+ .buttonamz
+ {
+  --shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);
+  --shadow-vertical-offset: var(--buttons-shadow-vertical-offset);
+  --shadow-blur-radius: var(--buttons-shadow-blur-radius);
+  --shadow-opacity: var(--buttons-shadow-opacity);
+  --border-offset: var(--buttons-border-offset); /* reduce radius edge artifacts */
+  --border-opacity: calc(1 - var(--buttons-border-opacity));
+  border-radius: var(--buttons-radius-outset);
+  position: relative;
+ }
+ .buttonamz
+ {
+  min-width: calc(12rem + var(--buttons-border-width) * 2);
+  min-height: calc(4.5rem + var(--buttons-border-width) * 2);
+ }
