@@ -35,7 +35,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Product Details",
-            "content": "<p>{{ shop.brand.short_description }}<\/p>",
+            "content": "<p>{{ product.metafields.custom.product_details | metafield_tag }}<\/p>",
             "page": "",
             "isOpen": false
           }
