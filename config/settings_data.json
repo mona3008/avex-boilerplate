@@ -161,7 +161,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-
+      "ul.mega-menu__list.page-width.mega-menu__list--condensed {display: flex !important; flex-direction: row;"
     ]
   }
 }
