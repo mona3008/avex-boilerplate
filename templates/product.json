@@ -96,12 +96,19 @@
         "carousel_mob": 2,
         "carousel_b_text": "Back to all products"
       }
+    },
+    "f30cb900-9c59-4c5f-a49e-fa4701de0a38": {
+      "type": "section-custom-liquid",
+      "settings": {
+        "custom_liquid": "{% if product.tags [0] contains 'https:\/\/' %}\n<a href={{product.tags [0]}} target=\"_blank\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/YOUR_IMAGE_FILE_URL\">\n<\/a>\n{% endif %}"
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
     "1634690105fbe44cb6",
-    "568b6aec-4dcb-4924-9c31-fe2630743890"
+    "568b6aec-4dcb-4924-9c31-fe2630743890",
+    "f30cb900-9c59-4c5f-a49e-fa4701de0a38"
   ]
 }
