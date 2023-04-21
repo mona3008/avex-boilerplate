@@ -8,6 +8,11 @@
           "settings": {
           }
         },
+        "914cade9-d5f5-474f-8123-a90394fb6bdf": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -43,6 +48,7 @@
       },
       "block_order": [
         "title",
+        "914cade9-d5f5-474f-8123-a90394fb6bdf",
         "price",
         "variant_picker",
         "quantity_selector",
