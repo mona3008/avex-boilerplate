@@ -110,6 +110,9 @@
           "0de6ebb7-f441-49c8-8dd7-5658971883cf",
           "eb1e00b9-5da9-4048-a459-be0175dfcde7"
         ],
+        "custom_css": [
+
+        ],
         "settings": {
           "infobar": "<p>!!BOGO!!!<a href=\"\/products\/original-1968-night-of-the-living-dead-press-kit\" title=\"NIGHT OF THE LIVING DEAD 1968 Press Kit Reproduction\"> NIGHT OF THE LIVING DEAD 1968 PRESS KIT REPRODUCTIONS - CLICK HERE<\/a><\/p>",
           "infobar_bg": "#f2f2f2",
@@ -161,8 +164,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".mega-menu .mega-menu__list--condensed {display: flex; flex-wrap:wrap;}",
-      ".header--top-center .mega-menu__list>li {padding-right: 2.4rem; flex-shrink: 0; width: auto;}"
+
     ]
   }
 }
