@@ -34,7 +34,7 @@
         "7b40dfb4-74f7-4c97-a3c4-de1836cf181e": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Details",
+            "heading": "Product Details",
             "content": "<p>{{ product.metafields.custom.product_details | metafield_tag }}<\/p>",
             "page": "",
             "isOpen": false
