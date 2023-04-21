@@ -31,9 +31,13 @@
             "show_dynamic_checkout": true
           }
         },
-        "description": {
-          "type": "description",
+        "7b40dfb4-74f7-4c97-a3c4-de1836cf181e": {
+          "type": "collapsible_tab",
           "settings": {
+            "heading": "Details",
+            "content": "<p>{{ product.metafields.custom.product_details | metafield_tag }}<\/p>",
+            "page": "",
+            "isOpen": false
           }
         }
       },
@@ -43,7 +47,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "7b40dfb4-74f7-4c97-a3c4-de1836cf181e"
       ],
       "custom_css": [
 
