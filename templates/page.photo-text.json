@@ -124,6 +124,21 @@
         "half_text_color": "#000",
         "half_bg_color": "#f2f2f2"
       }
+    },
+    "6e5fce07-d0b7-4253-8646-b351235ceab4": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image": "shopify:\/\/shop_images\/voodoo-dawn.png",
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "Voodoo Dawn (1990)",
+        "half_title_tag": "h3",
+        "half_text": "<h5>Based upon John Russo's novel.<\/h5>",
+        "half_b_text": "more info",
+        "half_b_url": "",
+        "half_text_color": "#000",
+        "half_bg_color": "#fff"
+      }
     }
   },
   "order": [
@@ -135,6 +150,7 @@
     "54734407-8ea8-4d11-a5e4-7cec23550137",
     "9dcda4e9-167c-40a5-8df2-6f89c67b7910",
     "ed938e3f-fbec-4441-b7f1-daec8b432c9c",
-    "6acf48d0-f8e9-453b-953e-63b6cd636f8e"
+    "6acf48d0-f8e9-453b-953e-63b6cd636f8e",
+    "6e5fce07-d0b7-4253-8646-b351235ceab4"
   ]
 }
