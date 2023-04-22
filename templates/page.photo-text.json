@@ -215,6 +215,21 @@
         "half_bg_color": "#f2f2f2"
       }
     },
+    "9dd412a7-c44e-474e-a6c0-35a00e39ebd7": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image": "shopify:\/\/shop_images\/uncle-john-is-a-zombie.png",
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "My Uncle John is a Zombie (2020)",
+        "half_title_tag": "h2",
+        "half_text": "",
+        "half_b_text": "Shop Now",
+        "half_b_url": "",
+        "half_text_color": "#000",
+        "half_bg_color": "#fff"
+      }
+    },
     "d85d71c0-a231-44e3-a3ad-8f5e97fecc3a": {
       "type": "half-media-text",
       "settings": {
@@ -247,6 +262,7 @@
     "56b541ba-d861-4097-8151-391795d5b4af",
     "740576dc-87ca-4a66-b414-3b6ada74df6f",
     "310def84-45a8-47ba-a31e-3f3b6e3ee1cb",
+    "9dd412a7-c44e-474e-a6c0-35a00e39ebd7",
     "d85d71c0-a231-44e3-a3ad-8f5e97fecc3a"
   ]
 }
