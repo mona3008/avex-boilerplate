@@ -154,6 +154,21 @@
         "half_text_color": "#000",
         "half_bg_color": "#f2f2f2"
       }
+    },
+    "b5f3af0e-3eac-44aa-a1a3-79215aba12fc": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image": "shopify:\/\/shop_images\/zombie-jamboree.png",
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "Zombie Jamboree (1993)",
+        "half_title_tag": "h3",
+        "half_text": "<p>A  documentary on the celebration of the 25th anniversary of <em><strong>Night of the Living Dead<\/strong><\/em>.<\/p>",
+        "half_b_text": "more info",
+        "half_b_url": "",
+        "half_text_color": "#000",
+        "half_bg_color": "#fff"
+      }
     }
   },
   "order": [
@@ -167,6 +182,7 @@
     "ed938e3f-fbec-4441-b7f1-daec8b432c9c",
     "6acf48d0-f8e9-453b-953e-63b6cd636f8e",
     "6e5fce07-d0b7-4253-8646-b351235ceab4",
-    "efabb6e9-e1cc-4f18-b3e5-970caff1f2d5"
+    "efabb6e9-e1cc-4f18-b3e5-970caff1f2d5",
+    "b5f3af0e-3eac-44aa-a1a3-79215aba12fc"
   ]
 }
