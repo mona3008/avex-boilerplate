@@ -13,6 +13,8 @@
 }
 .half-media-text__media .responsive-image__wrapper {
   height: 100%;
+  margin-left: 1rem;
+  
 }
 .half-media-text__media .responsive-image__wrapper img {
   max-width: 100% !important;
