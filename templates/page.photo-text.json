@@ -83,15 +83,16 @@
     "9dcda4e9-167c-40a5-8df2-6f89c67b7910": {
       "type": "half-media-text",
       "settings": {
+        "half_image": "shopify:\/\/shop_images\/ROTLD-posters.png",
         "half_image_p": "1",
         "half_video": "",
-        "half_title": "",
-        "half_title_tag": "h2",
-        "half_text": "",
-        "half_b_text": "Shop Now",
+        "half_title": "Return of the Living Dead (1985)",
+        "half_title_tag": "h3",
+        "half_text": "<h5>Rewritten by Dan O'Bannon.<\/h5>",
+        "half_b_text": "more info",
         "half_b_url": "",
         "half_text_color": "#000000",
-        "half_bg_color": "#ffffff"
+        "half_bg_color": "#f2f2f2"
       }
     }
   },
