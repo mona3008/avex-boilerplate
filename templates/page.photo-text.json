@@ -199,6 +199,21 @@
         "half_text_color": "#000",
         "half_bg_color": "#fff"
       }
+    },
+    "310def84-45a8-47ba-a31e-3f3b6e3ee1cb": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image": "shopify:\/\/shop_images\/saloonatics.png",
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "Saloonatics (2002)",
+        "half_title_tag": "h3",
+        "half_text": "<p>Reissued as <em><strong>The Mob Boss & The Soul Singe<\/strong><\/em>r.<\/p>",
+        "half_b_text": "Shop Now",
+        "half_b_url": "",
+        "half_text_color": "#000",
+        "half_bg_color": "#f2f2f2"
+      }
     }
   },
   "order": [
@@ -215,6 +230,7 @@
     "efabb6e9-e1cc-4f18-b3e5-970caff1f2d5",
     "b5f3af0e-3eac-44aa-a1a3-79215aba12fc",
     "56b541ba-d861-4097-8151-391795d5b4af",
-    "740576dc-87ca-4a66-b414-3b6ada74df6f"
+    "740576dc-87ca-4a66-b414-3b6ada74df6f",
+    "310def84-45a8-47ba-a31e-3f3b6e3ee1cb"
   ]
 }
