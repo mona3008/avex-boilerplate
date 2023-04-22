@@ -10,10 +10,10 @@
 .half-media-text__media {
   height: 60%;
   width: 40%;
+  margin-left: 1rem;
 }
 .half-media-text__media .responsive-image__wrapper {
   height: 100%;
-  margin-left: 1rem;
   
 }
 .half-media-text__media .responsive-image__wrapper img {
