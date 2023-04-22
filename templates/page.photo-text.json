@@ -133,11 +133,26 @@
         "half_video": "",
         "half_title": "Voodoo Dawn (1990)",
         "half_title_tag": "h3",
-        "half_text": "<h5>Based upon John Russo's novel.<\/h5>",
+        "half_text": "<h5>Based upon John Russo's novel of the same title.<\/h5>",
         "half_b_text": "more info",
         "half_b_url": "",
         "half_text_color": "#000",
         "half_bg_color": "#fff"
+      }
+    },
+    "efabb6e9-e1cc-4f18-b3e5-970caff1f2d5": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image": "shopify:\/\/shop_images\/midnight-2.png",
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "Midnight 2: Sex, Death, and Videotape (1993)",
+        "half_title_tag": "h3",
+        "half_text": "",
+        "half_b_text": "more info",
+        "half_b_url": "",
+        "half_text_color": "#000",
+        "half_bg_color": "#f2f2f2"
       }
     }
   },
@@ -151,6 +166,7 @@
     "9dcda4e9-167c-40a5-8df2-6f89c67b7910",
     "ed938e3f-fbec-4441-b7f1-daec8b432c9c",
     "6acf48d0-f8e9-453b-953e-63b6cd636f8e",
-    "6e5fce07-d0b7-4253-8646-b351235ceab4"
+    "6e5fce07-d0b7-4253-8646-b351235ceab4",
+    "efabb6e9-e1cc-4f18-b3e5-970caff1f2d5"
   ]
 }
