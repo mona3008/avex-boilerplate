@@ -184,6 +184,21 @@
         "half_text_color": "#000",
         "half_bg_color": "#fff"
       }
+    },
+    "740576dc-87ca-4a66-b414-3b6ada74df6f": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image": "shopify:\/\/shop_images\/night-30th.png",
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "Night of the Living Dead: 30th Anniversary special Edition",
+        "half_title_tag": "h3",
+        "half_text": "",
+        "half_b_text": "Shop Now",
+        "half_b_url": "",
+        "half_text_color": "#000",
+        "half_bg_color": "#fff"
+      }
     }
   },
   "order": [
@@ -199,6 +214,7 @@
     "6e5fce07-d0b7-4253-8646-b351235ceab4",
     "efabb6e9-e1cc-4f18-b3e5-970caff1f2d5",
     "b5f3af0e-3eac-44aa-a1a3-79215aba12fc",
-    "56b541ba-d861-4097-8151-391795d5b4af"
+    "56b541ba-d861-4097-8151-391795d5b4af",
+    "740576dc-87ca-4a66-b414-3b6ada74df6f"
   ]
 }
