@@ -9,6 +9,7 @@
 }
 .half-media-text__media {
   height: 60%;
+  width: 30%;
 }
 .half-media-text__media .responsive-image__wrapper {
   height: 100%;
