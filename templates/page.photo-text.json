@@ -214,6 +214,21 @@
         "half_text_color": "#000",
         "half_bg_color": "#f2f2f2"
       }
+    },
+    "d85d71c0-a231-44e3-a3ad-8f5e97fecc3a": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image": "shopify:\/\/shop_images\/midnight-remake.png",
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "Midnight (2020 remake)",
+        "half_title_tag": "h3",
+        "half_text": "<p>Directed by Gary Lee Vincent.<\/p>",
+        "half_b_text": "Shop Now",
+        "half_b_url": "",
+        "half_text_color": "#000",
+        "half_bg_color": "#fff"
+      }
     }
   },
   "order": [
@@ -231,6 +246,7 @@
     "b5f3af0e-3eac-44aa-a1a3-79215aba12fc",
     "56b541ba-d861-4097-8151-391795d5b4af",
     "740576dc-87ca-4a66-b414-3b6ada74df6f",
-    "310def84-45a8-47ba-a31e-3f3b6e3ee1cb"
+    "310def84-45a8-47ba-a31e-3f3b6e3ee1cb",
+    "d85d71c0-a231-44e3-a3ad-8f5e97fecc3a"
   ]
 }
