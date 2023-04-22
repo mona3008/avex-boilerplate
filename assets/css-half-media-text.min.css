@@ -11,6 +11,7 @@
   height: 100%;
   width: 50%;
   margin-left: 10rem;
+  margin-bottom: 20rem;
 }
 .half-media-text__media .responsive-image__wrapper {
   height: 100%;
@@ -20,7 +21,6 @@
   max-width: 50% !important;
   height: 100% !important;
   max-height: 100% !important;
-  margin-bottom: 2rem;
 }
 .half-media-text__media video {
   display: block;
