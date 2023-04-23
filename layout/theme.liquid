@@ -49,7 +49,19 @@
     <!-- Common/Main js file -->
     <script src="{{ 'js-common.min.js' | asset_url }}" defer="defer"></script>
   
-  
+  <style>
+@media (min-width: 749px){
+    .product.grid{
+    justify-content: center !important;
+}
+.product:not(.product--no-media):not(.featured-product) .product__media-wrapper{
+    max-width: 300px !important;
+}
+
+}
+
+
+</style>
 </head>
   <body
     id="{{ page_title | handle }}"
