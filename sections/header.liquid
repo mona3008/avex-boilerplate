@@ -10,7 +10,41 @@
     {{ section.settings.infobar }}
   </div>
 
-  
+  <header class="header header--sticky">
+  <div class="header__infobar"
+    style="background-color: {{ section.settings.infobar_bg }}; color: {{ section.settings.infobar_textcolor }}">
+    {{ section.settings.infobar }}
+  </div>
+
+  <div class="header__desktop">
+    <div class="container">
+      <nav class="header__nav" role="navigation">
+        <ul class="nav-menu">
+          {% for block in section.blocks %}
+            {% assign menuItem = linklists[block.settings.menuitem].links[0] %}
+            <li class="nav-item{% if menuItem.links != blank %} has-subnav{% endif %}">
+              <a class="nav-link" href="{{ menuItem.url }}">{{ menuItem.title }}</a>
+              {% if menuItem.links != blank %}
+                <ul class="subnav-menu">
+                  {% for link in menuItem.links %}
+                    <li class="subnav-item">
+                      <a class="subnav-link" href="{{ link.url }}">{{ link.title }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+
+  <div class="header__mobile">
+    <!-- Mobile code here -->
+  </div>
+</header>
+
 
   <div class="header__desktop">
     <div class="container">
