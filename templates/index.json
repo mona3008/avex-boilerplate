@@ -30,21 +30,6 @@
         "carousel_b_text": "Shop Now"
       }
     },
-    "16332987808e571964": {
-      "type": "half-media-text",
-      "settings": {
-        "half_image": "shopify:\/\/shop_images\/332703945_3026851307620983_2683527942477363197_n.jpg",
-        "half_image_p": "1",
-        "half_video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/da98ee7435ae466f85cc08dd619d6be6.mp4",
-        "half_title": "My Uncle John is a zombie",
-        "half_title_tag": "h3",
-        "half_text": "<p>From the co-creator of Night of the Living Dead, John Russo…A zombie kept in hiding by his niece and nephew suddenly becomes famous when the world discovers he can talk and reason as though he were alive. As his popularity grows, he is discovered by zombie hunters who want to kidnap him and hunt him for sport.<\/p>",
-        "half_b_text": "More Details",
-        "half_b_url": "https:\/\/garyvincen9.wixsite.com\/unclejohn\/info",
-        "half_text_color": "#000000",
-        "half_bg_color": "#ffffff"
-      }
-    },
     "16332987823b33b422": {
       "type": "half-media-text",
       "settings": {
@@ -97,13 +82,27 @@
         "title": "Contact form",
         "form_id": "ContactForm"
       }
+    },
+    "6e4dcced-4b14-42bf-b894-7e50099fa414": {
+      "type": "half-media-text",
+      "settings": {
+        "half_image_p": "1",
+        "half_video": "",
+        "half_title": "",
+        "half_title_tag": "h2",
+        "half_text": "",
+        "half_b_text": "Shop Now",
+        "half_b_url": "",
+        "half_text_color": "#000",
+        "half_bg_color": "#fff"
+      }
     }
   },
   "order": [
     "1633298769daf14fc7",
     "163329877533384385",
-    "16332987808e571964",
     "16332987823b33b422",
-    "164486929730ceebea"
+    "164486929730ceebea",
+    "6e4dcced-4b14-42bf-b894-7e50099fa414"
   ]
 }
