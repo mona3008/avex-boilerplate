@@ -48,7 +48,7 @@
 @media screen and (max-width: 749px) {
   .popup-modal__content table {
     display: block;
-    max-width: fit-content;
+    max-width: moz-fit-content;
     margin: 0;
     overflow-x: auto;
     white-space: nowrap;
