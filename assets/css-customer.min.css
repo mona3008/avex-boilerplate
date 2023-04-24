@@ -472,7 +472,7 @@ advanced-form {
 /* Login */
 .login a {
   display: block;
-  width: fit-content;
+  moz-width: fit-content;
   margin: 0 auto;
 }
 
@@ -673,7 +673,7 @@ advanced-form {
 }
 
 .order .fulfillment {
-  width: fit-content;
+ moz-width: fit-content;
   padding: 1rem;
   margin-top: 1rem;
   font-size: 1rem;
