@@ -1,7 +1,7 @@
 development:
- password: 
- theme_id: 
- store: 
+ password: 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
+ theme_id: avex-boilerplate
+ store: officialjohnrusso.myshopify.com
  ignore_files:
     - config/settings_data.json 
     - templates/*.json
