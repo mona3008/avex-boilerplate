@@ -11,4 +11,11 @@
   "emmet.includeLanguages": {
     "liquid": "html"
   },
+  "cSpell.words": [
+    "autoheight",
+    "coverflow",
+    "multiplicated",
+    "Oversliding",
+    "roledescription"
+  ],
 }
