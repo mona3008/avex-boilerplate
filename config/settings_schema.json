@@ -4,8 +4,18 @@
     "theme_name": "AvexTheme",
     "theme_version": "2.0",
     "theme_author": "Sanjar S",
-    "theme_documentation_url": "https://github.com/avex-designs/avex-boilerplate",
+    "theme_documentation_url": "https:\/\/github.com\/avex-designs\/avex-boilerplate",
     "theme_support_email": "sanjar@avexdesigns.com"
+  },
+  {
+    "name": "Navigation",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "show_breadcrumb_nav",
+        "label": "Show breadcrumb navigation"
+      }
+    ]
   },
   {
     "name": "Klaviyo settings",
